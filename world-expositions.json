@@ -1,0 +1,832 @@
+{
+	"events": [
+		{
+			"name": "The Great Exhibition",
+			"id": "1592050754538",
+			"content": "<i><a href=\"/wiki/Industry\" title=\"Industry\">Industry</a> of all Nations</i>",
+			"day": "1851-04-01",
+			"toDay": "1851-10-01",
+			"eventAddress": "London",
+			"position": [
+				51.5073219,
+				-0.1276474
+			]
+		},
+		{
+			"name": "Exposition Universelle",
+			"id": "1592050754831",
+			"content": "<i><a href=\"/wiki/Agriculture\" title=\"Agriculture\">Agriculture</a>, Industry and <a href=\"/wiki/The_Arts\" class=\"mw-redirect\" title=\"The Arts\">Arts</a></i>",
+			"day": "1855-05-01",
+			"toDay": "1855-11-01",
+			"eventAddress": "Paris",
+			"position": [
+				48.8566969,
+				2.3514616
+			]
+		},
+		{
+			"name": "International Exhibition",
+			"id": "1592050755325",
+			"content": "<i>Industry and Arts</i>",
+			"day": "1862-05-01",
+			"toDay": "1862-11-01",
+			"eventAddress": "London",
+			"position": [
+				51.5073219,
+				-0.1276474
+			]
+		},
+		{
+			"name": "Exposition Universelle",
+			"id": "1592050755811",
+			"content": "<i>Agriculture, Industry and Arts</i>",
+			"day": "1867-04-01",
+			"toDay": "1867-11-01",
+			"eventAddress": "Paris",
+			"position": [
+				48.8566969,
+				2.3514616
+			]
+		},
+		{
+			"name": "Weltausstellung 1873 Wien",
+			"id": "1592050756315",
+			"content": "<i><a href=\"/wiki/Culture\" title=\"Culture\">Culture</a> and <a href=\"/wiki/Education\" title=\"Education\">Education</a></i>",
+			"day": "1873-05-01",
+			"toDay": "1873-10-01",
+			"eventAddress": "Vienna",
+			"position": [
+				48.2083537,
+				16.3725042
+			]
+		},
+		{
+			"name": "Centennial Exposition",
+			"id": "1592050756821",
+			"content": "<i>Arts, Manufactures and Products of the Soil and Mine</i>",
+			"day": "1876-05-01",
+			"toDay": "1876-11-01",
+			"eventAddress": "Philadelphia",
+			"position": [
+				39.9527237,
+				-75.1635262
+			]
+		},
+		{
+			"name": "Exposition Universelle",
+			"id": "1592050757311",
+			"content": "<i>New Technologies</i>",
+			"day": "1878-05-01",
+			"toDay": "1878-11-01",
+			"eventAddress": "Paris",
+			"position": [
+				48.8566969,
+				2.3514616
+			]
+		},
+		{
+			"name": "Melbourne International Exhibition",
+			"id": "1592050757812",
+			"content": "<i><a href=\"/wiki/The_Arts\" class=\"mw-redirect\" title=\"The Arts\">Arts</a>, <a href=\"/wiki/Manufacturing\" title=\"Manufacturing\">Manufacturing</a>, <a href=\"/wiki/Agriculture\" title=\"Agriculture\">Agriculture</a> and Industrial Products of all Nations</i>",
+			"day": "1880-10-01",
+			"toDay": "1881-04-01",
+			"eventAddress": "Melbourne",
+			"position": [
+				-37.8142176,
+				144.9631608
+			]
+		},
+		{
+			"name": "Exposición Universal de Barcelona (1888)",
+			"id": "1592050758318",
+			"content": "<i>Fine and Industrial <a href=\"/wiki/Arts\" class=\"mw-redirect\" title=\"Arts\">Arts</a></i>",
+			"day": "1888-04-01",
+			"toDay": "1888-12-01",
+			"eventAddress": "Barcelona",
+			"position": [
+				41.3828939,
+				2.1774322
+			]
+		},
+		{
+			"name": "Exposition Universelle",
+			"id": "1592050758819",
+			"content": "<i><a href=\"/wiki/French_Revolution\" title=\"French Revolution\">French Revolution</a></i>",
+			"day": "1889-05-01",
+			"toDay": "1889-10-01",
+			"eventAddress": "Paris",
+			"position": [
+				48.8566969,
+				2.3514616
+			]
+		},
+		{
+			"name": "World's Columbian Exposition",
+			"id": "1592050759314",
+			"content": "<i><a href=\"/wiki/European_colonization_of_the_Americas\" title=\"European colonization of the Americas\">Discovery of America</a></i>",
+			"day": "1893-05-01",
+			"toDay": "1893-10-01",
+			"eventAddress": "Chicago",
+			"position": [
+				41.8755616,
+				-87.6244212
+			]
+		},
+		{
+			"name": "Brussels International Exposition",
+			"id": "1592050759816",
+			"content": "<i>Modern Life</i>",
+			"day": "1897-05-01",
+			"toDay": "1897-11-01",
+			"eventAddress": "Brussels",
+			"position": [
+				50.8465573,
+				4.351697
+			]
+		},
+		{
+			"name": "Paris International",
+			"id": "1592050760322",
+			"content": "<i>19th <a href=\"/wiki/Century\" title=\"Century\">Century</a>: an overview</i>",
+			"day": "1900-04-01",
+			"toDay": "1900-11-01",
+			"eventAddress": "Paris",
+			"position": [
+				48.8566969,
+				2.3514616
+			]
+		},
+		{
+			"name": "Louisiana Purchase",
+			"id": "1592050760810",
+			"content": "Louisiana Purchase",
+			"day": "1904-04-01",
+			"toDay": "1904-12-01",
+			"eventAddress": "St. Louis",
+			"position": [
+				38.6264178,
+				-90.1998378
+			]
+		},
+		{
+			"name": "Liège International (1905)",
+			"id": "1592050761317",
+			"content": "<i>Commemoration of the 75th anniversary of independence</i>",
+			"day": "1905-04-01",
+			"toDay": "1905-11-01",
+			"eventAddress": "Liège",
+			"position": [
+				50.6451381,
+				5.5734203
+			]
+		},
+		{
+			"name": "Milan International",
+			"id": "1592050761877",
+			"content": "<i>Transport</i>",
+			"day": "1906-04-01",
+			"toDay": "1906-11-01",
+			"eventAddress": "Milan",
+			"position": [
+				45.4668,
+				9.1905
+			]
+		},
+		{
+			"name": "Brussels International Exhibition",
+			"id": "1592050762314",
+			"content": "<i>Works of Art and Science, Agricultural and Industrial Products of All Nations</i>",
+			"day": "1910-04-01",
+			"toDay": "1910-11-01",
+			"eventAddress": "Brussels",
+			"position": [
+				50.8465573,
+				4.351697
+			]
+		},
+		{
+			"name": "Exposition universelle et international",
+			"id": "1592050762811",
+			"content": "<i>Peace, Industry and Arts</i>",
+			"day": "1913-04-01",
+			"toDay": "1913-11-01",
+			"eventAddress": "Ghent",
+			"position": [
+				51.0538286,
+				3.7250121
+			]
+		},
+		{
+			"name": "Panama–Pacific International Exposition",
+			"id": "1592050763262",
+			"content": "<i>Inauguration of the <a href=\"/wiki/Panama_Canal\" title=\"Panama Canal\">Panama Canal</a></i>",
+			"day": "1915-02-01",
+			"toDay": "1915-12-01",
+			"eventAddress": "San Francisco",
+			"position": [
+				37.7790262,
+				-122.4199061
+			]
+		},
+		{
+			"name": "Barcelona International Exposition",
+			"id": "1592050763823",
+			"content": "<i><a href=\"/wiki/The_Arts\" class=\"mw-redirect\" title=\"The Arts\">Arts</a>, <a href=\"/wiki/Industry\" title=\"Industry\">Industry</a> and Sport</i>",
+			"day": "1929-05-01",
+			"toDay": "1930-01-01",
+			"eventAddress": "Barcelona",
+			"position": [
+				41.3828939,
+				2.1774322
+			]
+		},
+		{
+			"name": "Century of Progress",
+			"id": "1592050764316",
+			"content": "<i>The interdependence among Industry and scientific research</i>",
+			"day": "1933-05-01",
+			"toDay": "1934-10-01",
+			"eventAddress": "Chicago",
+			"position": [
+				41.8755616,
+				-87.6244212
+			]
+		},
+		{
+			"name": "Brussels International Exposition",
+			"id": "1592050764809",
+			"content": "<i><a href=\"/wiki/Transport\" title=\"Transport\">Transports</a></i>",
+			"day": "1935-04-01",
+			"toDay": "1935-11-01",
+			"eventAddress": "Brussels",
+			"position": [
+				50.8465573,
+				4.351697
+			]
+		},
+		{
+			"name": "ILIS 1936",
+			"id": "1592050765316",
+			"content": "<i>Aviation</i>",
+			"day": "1936-05-01",
+			"toDay": "1936-06-01",
+			"eventAddress": "Stockholm",
+			"position": [
+				59.3251172,
+				18.0710935
+			]
+		},
+		{
+			"name": "Exposition Internationale des Arts et Techniques dans la Vie Moderne",
+			"id": "1592050765814",
+			"content": "<i>Arts and <a href=\"/wiki/Technology\" title=\"Technology\">Technology</a> in modern life</i>",
+			"day": "1937-05-01",
+			"toDay": "1937-11-01",
+			"eventAddress": "Paris",
+			"position": [
+				48.8566969,
+				2.3514616
+			]
+		},
+		{
+			"name": "Second International Aeronautic Exhibition",
+			"id": "1592050766312",
+			"content": "<i>Aerospace</i>",
+			"day": "1938-05-01",
+			"toDay": "1938-05-01",
+			"eventAddress": "Helsinki",
+			"position": [
+				60.1674098,
+				24.9425769
+			]
+		},
+		{
+			"name": "Golden Gate International Exposition",
+			"id": "1592050766817",
+			"content": "<i>Pageant of the Pacific</i>",
+			"day": "1939-02-01",
+			"toDay": "1940-09-01",
+			"eventAddress": "San Francisco",
+			"position": [
+				37.7790262,
+				-122.4199061
+			]
+		},
+		{
+			"name": "New York World's Fair",
+			"id": "1592050767315",
+			"content": "<i>Building The World of Tomorrow</i>",
+			"day": "1939-04-01",
+			"toDay": "1940-10-01",
+			"eventAddress": "New York City",
+			"position": [
+				40.7127281,
+				-74.0060152
+			]
+		},
+		{
+			"name": "Exposition internationale de l'eau (1939)",
+			"id": "1592050767777",
+			"content": "<i>Art of Water</i>",
+			"day": "1939-05-01",
+			"toDay": "1939-09-01",
+			"eventAddress": "Liège",
+			"position": [
+				50.6451381,
+				5.5734203
+			]
+		},
+		{
+			"name": "International Exhibition on Urbanism and Housing",
+			"id": "1592050768365",
+			"content": "<i>Urbanism and Housing</i>",
+			"day": "1947-07-01",
+			"toDay": "1947-08-01",
+			"eventAddress": "Paris",
+			"position": [
+				48.8566969,
+				2.3514616
+			]
+		},
+		{
+			"name": "Universal Sport Exhibition (1949)",
+			"id": "1592050768814",
+			"content": "<i>Sport and physical culture</i>",
+			"day": "1949-07-01",
+			"toDay": "1949-08-01",
+			"eventAddress": "Stockholm",
+			"position": [
+				59.3251172,
+				18.0710935
+			]
+		},
+		{
+			"name": "The International Exhibition of Rural Habitat\nLyon",
+			"id": "1592050769310",
+			"content": "<i>Rural Habitat</i>",
+			"day": "1949-09-01",
+			"toDay": "1949-10-01",
+			"eventAddress": "Lyon",
+			"position": [
+				45.7578137,
+				4.8320114
+			]
+		},
+		{
+			"name": "Exposition internationale du bicentenaire de Port-au-Prince",
+			"id": "1592050769805",
+			"content": "<i>The festival of <a href=\"/wiki/Peace\" title=\"Peace\">Peace</a></i>",
+			"day": "1949-12-01",
+			"toDay": "1950-06-01",
+			"eventAddress": "Port-au-Prince",
+			"position": [
+				18.547327,
+				-72.3395928
+			]
+		},
+		{
+			"name": "The International Textile Exhibition",
+			"id": "1592050770274",
+			"content": "<i>Textile</i>",
+			"day": "1951-04-01",
+			"toDay": "1951-05-01",
+			"eventAddress": "Lille",
+			"position": [
+				50.6365654,
+				3.0635282
+			]
+		},
+		{
+			"name": "EA 53",
+			"id": "1592050770862",
+			"content": "<a href=\"/wiki/Agriculture\" title=\"Agriculture\">Agriculture</a>",
+			"day": "1953-07-01",
+			"toDay": "1953-10-01",
+			"eventAddress": "Rome",
+			"position": [
+				41.8933203,
+				12.4829321
+			]
+		},
+		{
+			"name": "Conquest of the Desert (exhibition)",
+			"id": "1592050771312",
+			"content": "Conquest of the <a href=\"/wiki/Desert\" title=\"Desert\">Desert</a>",
+			"day": "1953-09-01",
+			"toDay": "1953-10-01",
+			"eventAddress": "Jerusalem",
+			"position": [
+				31.778345,
+				35.2250786
+			]
+		},
+		{
+			"name": "The International Exhibition of Navigation (1954)",
+			"id": "1592050771814",
+			"content": "<a href=\"/wiki/Navigation\" title=\"Navigation\">Navigation</a>",
+			"day": "1954-05-01",
+			"toDay": "1954-10-01",
+			"eventAddress": "Naples",
+			"position": [
+				40.8359336,
+				14.2487826
+			]
+		},
+		{
+			"name": "The International Expo of Sport (1955)",
+			"id": "1592050772317",
+			"content": "<a href=\"/wiki/Sport\" title=\"Sport\">Sport</a>",
+			"day": "1955-05-01",
+			"toDay": "1955-06-01",
+			"eventAddress": "Turin",
+			"position": [
+				45.0677551,
+				7.6824892
+			]
+		},
+		{
+			"name": "Helsingborg exhibition 1955",
+			"id": "1592050772836",
+			"content": "Modern Man in the Environment",
+			"day": "1955-06-01",
+			"toDay": "1955-08-01",
+			"eventAddress": "Helsingborg",
+			"position": [
+				56.0441984,
+				12.7040684
+			]
+		},
+		{
+			"name": "Exhibition of citriculture",
+			"id": "1592050773342",
+			"content": "Citrus",
+			"day": "1956-05-01",
+			"toDay": "1956-06-01",
+			"eventAddress": "Beit Dagan",
+			"position": [
+				32.0004347,
+				34.8306669
+			]
+		},
+		{
+			"name": "Interbau",
+			"id": "1592050773765",
+			"content": "Reconstruction of Hansa District",
+			"day": "1957-07-01",
+			"toDay": "1957-09-01",
+			"eventAddress": "Berlin",
+			"position": [
+				52.5170365,
+				13.3888599
+			]
+		},
+		{
+			"name": "Brussels World's Fair",
+			"id": "1592050774311",
+			"content": "<i>A World View: A New Humanism</i>",
+			"day": "1958-07-01",
+			"toDay": "1958-09-01",
+			"eventAddress": "Brussels",
+			"position": [
+				50.8465573,
+				4.351697
+			]
+		},
+		{
+			"name": "Expo 61",
+			"id": "1592050774818",
+			"content": "Celebration of centennial of Italian unity",
+			"day": "1961-05-01",
+			"toDay": "1961-10-01",
+			"eventAddress": "Turin",
+			"position": [
+				45.0677551,
+				7.6824892
+			]
+		},
+		{
+			"name": "Century 21 Exposition",
+			"id": "1592050775308",
+			"content": "<i>Man in the <a href=\"/wiki/Space_Age\" title=\"Space Age\">Space Age</a></i>",
+			"day": "1962-04-01",
+			"toDay": "1962-10-01",
+			"eventAddress": "Seattle",
+			"position": [
+				47.6038321,
+				-122.3300624
+			]
+		},
+		{
+			"name": "IVA 65",
+			"id": "1592050775812",
+			"content": "<i>Transport</i>",
+			"day": "1965-06-01",
+			"toDay": "1965-10-01",
+			"eventAddress": "Munich",
+			"position": [
+				48.1371079,
+				11.5753822
+			]
+		},
+		{
+			"name": "Expo '67",
+			"id": "1592050776329",
+			"content": "<i>Man and His World</i>",
+			"day": "1967-04-01",
+			"toDay": "1967-10-01",
+			"eventAddress": "Montreal",
+			"position": [
+				45.4972159,
+				-73.6103642
+			]
+		},
+		{
+			"name": "HemisFair '68",
+			"id": "1592050776814",
+			"content": "<i>Confluence of Civilizations in the Americas</i>",
+			"day": "1968-04-01",
+			"toDay": "1968-10-01",
+			"eventAddress": "San Antonio",
+			"position": [
+				29.4246002,
+				-98.4951405
+			]
+		},
+		{
+			"name": "Expo '70",
+			"id": "1592050777383",
+			"content": "<i>Progress and Harmony for Mankind</i>",
+			"day": "1970-03-01",
+			"toDay": "1970-09-01",
+			"eventAddress": "Osaka",
+			"position": [
+				34.6198813,
+				135.490357
+			]
+		},
+		{
+			"name": "Expo 71",
+			"id": "1592050777818",
+			"content": "<i>The Hunt through the World</i>",
+			"day": "1971-08-01",
+			"toDay": "1971-09-01",
+			"eventAddress": "Budapest",
+			"position": [
+				47.4983815,
+				19.0404707
+			]
+		},
+		{
+			"name": "Expo '74",
+			"id": "1592050778318",
+			"content": "<i>Celebrating Tomorrow's Fresh New Environment</i>",
+			"day": "1974-05-01",
+			"toDay": "1974-11-01",
+			"eventAddress": "Spokane",
+			"position": [
+				47.6579425,
+				-117.4212265
+			]
+		},
+		{
+			"name": "Expo '75",
+			"id": "1592050778771",
+			"content": "<i>The Sea We would like to See</i>",
+			"day": "1975-07-01",
+			"toDay": "1976-01-01",
+			"eventAddress": "Okinawa",
+			"position": [
+				26.3343738,
+				127.8056597
+			]
+		},
+		{
+			"name": "Expo 81",
+			"id": "1592050779337",
+			"content": "<i>Hunting</i>",
+			"day": "1981-06-01",
+			"toDay": "1981-07-01",
+			"eventAddress": "Plovdiv",
+			"position": [
+				42.1418541,
+				24.7499297
+			]
+		},
+		{
+			"name": "1982 World's Fair",
+			"id": "1592050779848",
+			"content": "<i>Energy Turns the World</i>",
+			"day": "1982-05-01",
+			"toDay": "1982-10-01",
+			"eventAddress": "Knoxville",
+			"position": [
+				35.9603948,
+				-83.9210261
+			]
+		},
+		{
+			"name": "1984 World's Fair",
+			"id": "1592050780317",
+			"content": "<i>The World of Rivers– Fresh <a href=\"/wiki/Water\" title=\"Water\">Water</a> as a source of life</i>",
+			"day": "1984-05-01",
+			"toDay": "1984-11-01",
+			"eventAddress": "New Orleans",
+			"position": [
+				29.9499323,
+				-90.0701156
+			]
+		},
+		{
+			"name": "Expo '85",
+			"id": "1592050780822",
+			"content": "<i>Dwellings and Surroundings – Science and Technology for Man at Home</i>",
+			"day": "1985-03-01",
+			"toDay": "1985-09-01",
+			"eventAddress": "Tsukuba",
+			"position": [
+				36.0833877,
+				140.0765098
+			]
+		},
+		{
+			"name": "Expo 85",
+			"id": "1592050781268",
+			"content": "<i>Inventions</i>",
+			"day": "1985-11-01",
+			"toDay": "1985-11-01",
+			"eventAddress": "Plovdiv",
+			"position": [
+				42.1418541,
+				24.7499297
+			]
+		},
+		{
+			"name": "Expo '86",
+			"id": "1592050781819",
+			"content": "<i><a href=\"/wiki/Transportation\" class=\"mw-redirect\" title=\"Transportation\">Transportation</a> and <a href=\"/wiki/Communication\" title=\"Communication\">Communication</a>: World in Motion - World in Touch</i>",
+			"day": "1986-05-01",
+			"toDay": "1986-10-01",
+			"eventAddress": "Vancouver",
+			"position": [
+				49.2608724,
+				-123.1139529
+			]
+		},
+		{
+			"name": "Expo '88",
+			"id": "1592050782328",
+			"content": "<i>Leisure in the Age of <a href=\"/wiki/Technology\" title=\"Technology\">Technology</a></i>",
+			"day": "1988-04-01",
+			"toDay": "1988-10-01",
+			"eventAddress": "Brisbane",
+			"position": [
+				-27.4689682,
+				153.0234991
+			]
+		},
+		{
+			"name": "Expo 91",
+			"id": "1592050782766",
+			"content": "<i>The activity of young people in the service of a World of Peace</i>",
+			"day": "1991-06-01",
+			"toDay": "1991-07-01",
+			"eventAddress": "Plovdiv",
+			"position": [
+				42.1418541,
+				24.7499297
+			]
+		},
+		{
+			"name": "Expo '92",
+			"id": "1592050783309",
+			"content": "<i>The Era of Discovery</i>",
+			"day": "1992-04-01",
+			"toDay": "1992-10-01",
+			"eventAddress": "Seville",
+			"position": [
+				37.3886303,
+				-5.9953403
+			]
+		},
+		{
+			"name": "Expo Colombo '92",
+			"id": "1592050783826",
+			"content": "<i>Christopher Columbus, The Ship and the Sea</i>",
+			"day": "1992-05-01",
+			"toDay": "1992-08-01",
+			"eventAddress": "Genoa",
+			"position": [
+				44.40726,
+				8.9338624
+			]
+		},
+		{
+			"name": "Expo '93",
+			"id": "1592050784326",
+			"content": "<i>The Challenge of a New Road of Development</i>",
+			"day": "1993-08-01",
+			"toDay": "1993-11-01",
+			"eventAddress": "Daejeon",
+			"position": [
+				36.3496,
+				127.3848
+			]
+		},
+		{
+			"name": "Expo '98",
+			"id": "1592050784756",
+			"content": "<i>The Oceans: A Heritage for the Future</i>",
+			"day": "1998-05-01",
+			"toDay": "1998-09-01",
+			"eventAddress": "Lisbon",
+			"position": [
+				38.7077507,
+				-9.1365919
+			]
+		},
+		{
+			"name": "Expo 2000",
+			"id": "1592050785326",
+			"content": "<i><a href=\"/wiki/Man\" title=\"Man\">Man</a>, <a href=\"/wiki/Nature\" title=\"Nature\">Nature</a>, Technology</i>",
+			"day": "2000-06-01",
+			"toDay": "2000-10-01",
+			"eventAddress": "Hanover",
+			"position": [
+				52.3744779,
+				9.7385532
+			]
+		},
+		{
+			"name": "Expo 2005",
+			"id": "1592050785822",
+			"content": "<i>Nature's Wisdom</i>",
+			"day": "2005-03-01",
+			"toDay": "2005-09-01",
+			"eventAddress": "Aichi",
+			"position": [
+				34.9991645,
+				137.254574
+			]
+		},
+		{
+			"name": "Expo 2008",
+			"id": "1592050786267",
+			"content": "<i>Water and <a href=\"/wiki/Sustainable_development\" title=\"Sustainable development\">Sustainable development</a></i>",
+			"day": "2008-06-01",
+			"toDay": "2008-09-01",
+			"eventAddress": "Zaragoza",
+			"position": [
+				41.6521342,
+				-0.8809428
+			]
+		},
+		{
+			"name": "Expo 2010",
+			"id": "1592050786820",
+			"content": "<i>Better City, Better Life</i>",
+			"day": "2010-05-01",
+			"toDay": "2010-10-01",
+			"eventAddress": "Shanghai",
+			"position": [
+				31.2252985,
+				121.4890497
+			]
+		},
+		{
+			"name": "Expo 2012",
+			"id": "1592050787316",
+			"content": "<i>The Living Ocean and Coast</i>",
+			"day": "2012-05-01",
+			"toDay": "2012-08-01",
+			"eventAddress": "Yeosu",
+			"position": [
+				34.7546257,
+				127.659859
+			]
+		},
+		{
+			"name": "Expo 2015",
+			"id": "1592050787763",
+			"content": "<i>Feeding the planet, Energy for life</i>",
+			"day": "2015-05-01",
+			"toDay": "2015-10-01",
+			"eventAddress": "Milan",
+			"position": [
+				45.4668,
+				9.1905
+			]
+		},
+		{
+			"name": "Expo 2017",
+			"id": "1592050788317",
+			"content": "<i>Future Energy</i>",
+			"day": "2017-06-01",
+			"toDay": "2017-09-01",
+			"eventAddress": "Astana",
+			"position": [
+				51.1282205,
+				71.4306682
+			]
+		}
+	]
+}
