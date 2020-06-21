@@ -1,4 +1,7 @@
-[
+{
+"startDateContext":"1936",
+"endDateContext":"1939",
+"events" : [
       {
          "name":"Asedio del Alcázar de Toledo",
          "id":"1592752700420",
@@ -804,3 +807,4 @@
          ]
       }
    ]
+}
